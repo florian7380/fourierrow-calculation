@@ -1,0 +1,1 @@
+from Fkt_GUI_For_Fourier.Fkt_Get_Data.Fkt_Calc_Fourierkoefficient.Fkt_Poly_For_Integral.Faculty import Faculty
